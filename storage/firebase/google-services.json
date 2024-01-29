@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "525137107282",
+    "project_id": "high-unity-147305",
+    "storage_bucket": "high-unity-147305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525137107282:android:37301945717fe7bc5d428b",
+        "android_client_info": {
+          "package_name": "com.test.troopadelivery.troopa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525137107282-ui2gqdubsf41bf5m105s2tthphkks39v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.troopadelivery.troopa",
+            "certificate_hash": "4998b682a6ec9c06f08c1e1ce4b74531694b5097"
+          }
+        },
+        {
+          "client_id": "525137107282-q1s3saubf54u629sl8hif1ss0c9dqihl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnhURM0Dz_iBo83yrHdr5bw605sVaIKRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525137107282-q1s3saubf54u629sl8hif1ss0c9dqihl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
